@@ -1,0 +1,10 @@
+{
+  "@import": "resdir/resource#^0.1.0",
+  "id": "kt3k/hello",
+  "version": "0.1.1",
+  "isPublic": true,
+  "hello": {
+    "@type": "method",
+    "@run": "@console print 'Hello, World!'"
+  }
+}
